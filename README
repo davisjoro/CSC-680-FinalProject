@@ -1,7 +1,7 @@
 For my app I decided to make a game.
 The goal of the game is to reach the end of the map and collect the treasure (yellow square) and make your way back through the course to the entrance (grey square) to win.
-![](Images/Main_Screen.png)
 You are in the blue square and can move arround using the arrow buttons. Avoid the traps (red and purple square (indigo shows that there is an overlap)).
 You have 8 lives and 2 minutes to reach the end of the course before the game resets. 
 There are 4 different screens the starting screen, a win screen, lose screen, and the main game screen.
 
+I got the assests I used from voxel.com. https://www.vexels.com/merch/png/
